@@ -1,0 +1,82 @@
+.layout {
+
+    width: 100%;
+
+    max-width: 1024px;
+
+    margin: auto;
+
+    background-color: #363636;
+
+    border-collapse: collapse;
+
+}
+
+body {
+    background-color: #363636;
+}
+
+.layout tr td {
+
+    padding: 20px;
+
+    vertical-align: top;
+
+    border: solid 1px #ffffff
+
+}
+
+
+
+.header {
+
+    font-size: 30px;
+    color: #ffffff;
+
+}
+
+
+
+.footer {
+
+    text-align: center;
+    color: #ffffff;
+
+}
+
+
+
+.sidebarHeader {
+
+    font-size: 20px;
+    color: #ffffff;
+
+}
+
+
+
+.sidebar ul {
+    padding-left: 20px;
+    color: #ffffff;
+
+}
+
+
+
+a, a:visited {
+
+    color: #9900ff;
+
+}
+
+p {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+td {
+    color: #ffffff
+}
